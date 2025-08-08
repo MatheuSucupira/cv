@@ -112,6 +112,10 @@ p::first-letter {
     font-size: 60px;
 }
 
+ul {
+    text-align: left;
+}
+
 ul li {
     list-style: none;
     color: white;
